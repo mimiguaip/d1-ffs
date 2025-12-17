@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-ffs",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "5603a3f8-d5b6-4532-b26b-854d0bff77c1",
+			"database_name": "D1-FFS-teste"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
